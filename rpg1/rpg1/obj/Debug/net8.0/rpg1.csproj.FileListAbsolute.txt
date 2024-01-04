@@ -1,0 +1,14 @@
+C:\Users\oem\source\repos\rpg1\rpg1\bin\Debug\net8.0\rpg1.exe
+C:\Users\oem\source\repos\rpg1\rpg1\bin\Debug\net8.0\rpg1.deps.json
+C:\Users\oem\source\repos\rpg1\rpg1\bin\Debug\net8.0\rpg1.runtimeconfig.json
+C:\Users\oem\source\repos\rpg1\rpg1\bin\Debug\net8.0\rpg1.dll
+C:\Users\oem\source\repos\rpg1\rpg1\bin\Debug\net8.0\rpg1.pdb
+C:\Users\oem\source\repos\rpg1\rpg1\obj\Debug\net8.0\rpg1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oem\source\repos\rpg1\rpg1\obj\Debug\net8.0\rpg1.AssemblyInfoInputs.cache
+C:\Users\oem\source\repos\rpg1\rpg1\obj\Debug\net8.0\rpg1.AssemblyInfo.cs
+C:\Users\oem\source\repos\rpg1\rpg1\obj\Debug\net8.0\rpg1.csproj.CoreCompileInputs.cache
+C:\Users\oem\source\repos\rpg1\rpg1\obj\Debug\net8.0\rpg1.dll
+C:\Users\oem\source\repos\rpg1\rpg1\obj\Debug\net8.0\refint\rpg1.dll
+C:\Users\oem\source\repos\rpg1\rpg1\obj\Debug\net8.0\rpg1.pdb
+C:\Users\oem\source\repos\rpg1\rpg1\obj\Debug\net8.0\rpg1.genruntimeconfig.cache
+C:\Users\oem\source\repos\rpg1\rpg1\obj\Debug\net8.0\ref\rpg1.dll
